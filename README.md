@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">🚀 Tecnologías y Herramientas 🕶️</h3>
+<h3 align="center">🚀 Tecnologías y Herramientas 🚀</h3>
 
 
 <p align="center">
