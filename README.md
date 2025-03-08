@@ -51,5 +51,5 @@
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=LightKra&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LightKra&layout=compact&theme=onedark" />
-  <img width="`800px" src="https://github-readme-activity-graph.vercel.app/graph?username=LightKra&theme=github">
+  <img width="825px" src="https://github-readme-activity-graph.vercel.app/graph?username=LightKra&theme=github">
 </div>
